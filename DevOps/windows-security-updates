@@ -1,0 +1,10 @@
+windows-security-updates/
+├── ansible.cfg
+├── inventory.yml
+├── playbook.yml
+└── roles/
+    └── windows_updates/
+        ├── tasks/
+        │   └── main.yml
+        └── vars/
+            └── main.yml
